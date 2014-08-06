@@ -11,7 +11,7 @@
 #include <limits.h>
 #include <stdint.h>
 #include "images.h"
-#include <eimg.h>
+#include <eimg_arduino.h>
 
 #define TFT_CS    10
 #define TFT_DC    9
